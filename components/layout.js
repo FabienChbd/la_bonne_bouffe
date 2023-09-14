@@ -19,11 +19,11 @@ export default function Layout({ children, home }) {
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
-          content="Retrouvez les meilleures recettes validées par Cathy"
+          content="Retrouvez les meilleures recettes !!!"
         />
         <meta
           property="og:description"
-          content="Retrouvez les meilleures recettes validées par Cathy"
+          content="Retrouvez les meilleures recettes !!!"
         />
         <meta
           property="og:image"
@@ -42,11 +42,11 @@ export default function Layout({ children, home }) {
         />
         <meta
           name="twitter:title"
-          content="Retrouvez les meilleures recettes validées par Cathy"
+          content="Retrouvez les meilleures recettes !!!"
         />
         <meta
           name="twitter:description"
-          content="Retrouvez les meilleures recettes validées par Cathy"
+          content="Retrouvez les meilleures recettes !!!"
         />
         <meta
           name="twitter:image"
