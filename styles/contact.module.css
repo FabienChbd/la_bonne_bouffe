@@ -1,0 +1,51 @@
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+  color: #b30790;
+}
+
+.formGroup {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.inputField,
+.inputTA {
+  width: 100%;
+  padding: 1rem;
+  border: 1px solid maroon;
+  border-radius: 1rem;
+
+  background-color: transparent;
+}
+
+.inputTA {
+  height: 10svh;
+}
+
+.submitButton {
+  padding: 0.5rem 1.5rem;
+  background-color: maroon;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.submitButton:hover {
+  background-color: #b30790;
+}
+.contactTitle {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #b30790;
+}
+
+.label {
+  font-size: 1.5rem;
+  color: maroon;
+}

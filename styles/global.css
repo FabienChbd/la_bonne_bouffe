@@ -1,0 +1,13 @@
+body {
+  background-image: url("../public/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+footer {
+  position: fixed;
+  margin: auto;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}

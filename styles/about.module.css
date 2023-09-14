@@ -1,0 +1,42 @@
+.aboutContent {
+  text-align: center;
+  color: maroon;
+  margin: auto;
+  width: 80%;
+}
+
+/*  titre "À propos" */
+.aboutTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1.5rem;
+  color: maroon;
+}
+
+.siteName {
+  font-weight: bold;
+  font-size: 2rem;
+  color: rgb(146, 11, 146);
+}
+
+.aboutp {
+  text-align: center;
+  color: maroon;
+}
+
+.ulli {
+  list-style-type: none;
+}
+
+.li {
+  font-size: 1.5rem;
+  padding-bottom: 2svh;
+}
+
+.title {
+  font-size: 2rem;
+  text-decoration: underline;
+  color: rgb(146, 11, 146);
+  text-align: center;
+}

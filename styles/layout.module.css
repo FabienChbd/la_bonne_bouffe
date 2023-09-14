@@ -1,0 +1,51 @@
+.title {
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(146, 11, 146);
+  padding-bottom: 5rem;
+  padding-top: 1rem;
+}
+
+.navBar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1svh;
+  list-style-type: none;
+  justify-content: space-around;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.link,
+.linkHome {
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 2svh;
+  border-radius: 10%;
+  color: rgb(146, 11, 146);
+  font-size: 1.3rem;
+}
+
+.liLink {
+  height: 7svh;
+}
+
+.linkHome {
+  text-align: center;
+}
+
+.main {
+  padding-bottom: 4svh;
+}
+.footer {
+  height: 3svh;
+  text-align: center;
+  font-weight: bold;
+}
+
+.logo {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  gap: 2svh;
+}

@@ -1,0 +1,22 @@
+.siteName {
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid rgb(146, 11, 146);
+  color: rgb(146, 11, 146);
+}
+
+.text {
+  font-size: 1.5rem;
+  color: maroon;
+  margin: auto;
+  width: 80%;
+  text-align: center;
+  padding-bottom: 6svh;
+}
+
+.title {
+  font-size: 2rem;
+  text-decoration: underline;
+  color: rgb(146, 11, 146);
+  text-align: center;
+}
