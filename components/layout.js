@@ -12,10 +12,7 @@ export default function Layout({ children, home }) {
         <meta name="description" content="Retrouvez les meilleures recettes" />
 
         {/* <!-- Facebook Meta Tags --> */}
-        <meta
-          property="og:url"
-          content="https://62c2-195-135-2-81.ngrok-free.app/"
-        />
+        <meta property="og:url" content="https://la-bonne-bouffe.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
@@ -27,18 +24,18 @@ export default function Layout({ children, home }) {
         />
         <meta
           property="og:image"
-          content="https://62c2-195-135-2-81.ngrok-free.app/images/Le_chef.png"
+          content="https://la-bonne-bouffe.vercel.app/images/Le_chef.png"
         />
 
         {/* <!-- Twitter Meta Tags --> */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:domain"
-          content="62c2-195-135-2-81.ngrok-free.app"
+          content="https://la-bonne-bouffe.vercel.app/"
         />
         <meta
           property="twitter:url"
-          content="https://62c2-195-135-2-81.ngrok-free.app/"
+          content="https://la-bonne-bouffe.vercel.app/"
         />
         <meta
           name="twitter:title"
@@ -50,7 +47,7 @@ export default function Layout({ children, home }) {
         />
         <meta
           name="twitter:image"
-          content="https://62c2-195-135-2-81.ngrok-free.app/images/Le_chef.png"
+          content="https://la-bonne-bouffe.vercel.app/images/Le_chef.png"
         />
 
         {/* <!-- Meta Tags Generated via https://www.opengraph.xyz --> */}
